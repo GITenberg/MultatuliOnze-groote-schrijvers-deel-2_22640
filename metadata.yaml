@@ -1,0 +1,31 @@
+_repo: MultatuliOnze-groote-schrijvers-deel-2_22640
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bergh van Eysinga-Elias, Jeanette van den
+    aliases:
+    - Eysinga, Jeanette van den Bergh van
+    - Bergh van Eysinga, Jeanette van den
+    birthdate: 1880
+    deathdate: 1957
+    gutenberg_agent_id: '25465'
+    url: http://www.gutenberg.org/2009/agents/25465
+description: ''
+gutenberg_issued: '2007-09-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22640'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Multatuli'
+title: 'Multatuli
+
+  Onze groote schrijvers, deel 2'
+url: http://www.gutenberg.org/ebooks/22640
